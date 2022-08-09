@@ -1,0 +1,19 @@
+Nicolas Toro 201956531-1 Par. 202
+-Algoritmo de la creacion de boletas
+-Revision de leaks de memoria dinamica
+-Casos de pruebas
+-Comentarios
+
+Benjamin Soto 201973522-5 Par. 201
+-Almacenamiento de tablas de hash
+-Funciones y manejo de liberacion de memoria
+-Casos de pruebas
+-Comentarios
+
+Miguel Soto 201973623-K Par. 201
+-Implementacion de clases de hashing
+-Casos de prueba
+-Creacion de structs auxiliares para resolver el problema
+-Funciones de la clase de hashing
+
+

@@ -1,0 +1,25 @@
+Nicolas Toro 2019565331-1 Par. 202
+-Programo el formato del archivo binario
+-OPtimizo la funcion de cantidadPersonas
+para reducir el uso excesivo de memoria
+-Arreglo el formato de leer el archivo binario
+(Ya que inicialmente leiamos un .txt)
+-Pruebas de error en el arreglo extensible
+-Comentó las funciones del ejercicio 2
+
+Benjamin Soto 201973522-5 Par. 201
+-Hizo el struct de FlujoEmpleados
+-Implemento el sistema de flags para descartar
+entradas dobles
+-Modifico y arregló la funcion de grow
+-Definio la clase de arreglo extensible
+-Liberacion de memoria final
+-Pruebas de error en el arreglo extensible
+-Escribio el README
+
+Miguel Soto 201973623-K Par. 201
+-Definio las funciones auxiliares que utiliza cantidadPersonas
+-Hizo la funcion horaEsMenor
+-Planteo la estructura general de la tarea
+-Hizo el interfaz a través de el terminal (con cout y cin)
+-Comentó las funciones del ejercicio 1

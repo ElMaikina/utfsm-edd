@@ -1,0 +1,19 @@
+Nicolas Toro 2019565331-1 Par. 202
+-Implementacion de Horner en la parte 1
+-Arregló el destructor del arbol que no funcionaba ya que
+usamos un arreglo de clases en la parte 2
+-Casos de pruebas para ambas partes
+-Escrbir los comentarios de la parte 1
+
+Benjamin Soto 201973522-5 Par. 201
+-Prototipeó la clase de arboles con TDA
+-Programó la funcion de insercion en árboles
+
+Miguel Soto 201973623-K Par. 201
+-Implemento los tres recorridos de arboles
+-Diseño e implemento la clase arrayOfPoly
+-Diseño el sistema para evaluar monomios con Horner
+de la parte 2
+
+En conjunto estudiamos el algoritmo de Horner y fuimos implementando
+y probando durante la llamada, que resultó ser lo mas complejo de la tarea.
